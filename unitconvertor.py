@@ -1,3 +1,5 @@
+#sorry previous button dose not works it was one of the frist tkinter project hope you like it
+#DEEPJYOTI KARMAKAR TRIPURA INDIA
 import tkinter as d
 from datetime import datetime
 
